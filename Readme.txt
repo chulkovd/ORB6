@@ -3,10 +3,11 @@ https://arxiv.org/abs/2206.00604
  
 All tables are presented in Comma-separated values format.
 
-Table A1 - Mass-luminosity relation 
-Table A2 - 326 resolved ORB6 binaries with decent agreement of dynamical and photometric masse
-Table A3 - Master table containing parallaxes and mass estimates for all 3460 ORB6 entries
+Table 1 - Mass-luminosity relation 
+Table 2 - 326 resolved ORB6 binaries with decent agreement of dynamical and photometric masse
+Table 3 - Master table containing parallaxes and mass estimates for all 3460 ORB6 entries
+Tables 2R and 3R are the updated versions of Tables 2 and 3. Suggestion from the referee allowed to expand list of available third-light companions.
 
 The description of columns is available in the Appendix of the paper.
-
 Contacts: chulkov@inasan.ru or chulkovd@gmail.com 
+
