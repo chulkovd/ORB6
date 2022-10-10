@@ -1,5 +1,6 @@
 These are the supplementary data for Chulkov & Malkov paper, Visual binary stars with known orbits in Gaia EDR3.  
 https://arxiv.org/abs/2206.00604
+The paper is accepted for publication in MNRAS.
  
 All tables are presented in Comma-separated values format.
 
@@ -9,5 +10,5 @@ Table 3 - Master table containing parallaxes and mass estimates for all 3460 ORB
 Tables 2R and 3R are the updated versions of Tables 2 and 3. Suggestion from the referee allowed to expand list of available third-light companions.
 
 The description of columns is available in the Appendix of the paper.
-Contacts: chulkov@inasan.ru or chulkovd@gmail.com 
+Contacts: chulkovd@gmail.com or chulkov@inasan.ru . 
 
